@@ -1,4 +1,4 @@
-# BOT-Pioneer
+#Pioneer
 自动交易 https://pioneer.particle.network?inviteCode=ASG0CN
 安装Python 
 git clone ..  
